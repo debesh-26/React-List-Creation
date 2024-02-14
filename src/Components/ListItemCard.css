@@ -1,0 +1,46 @@
+.list-item-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start; /* Align to the top */
+    margin: 10px 0;
+    padding: 15px 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .item-content {
+    flex-grow: 1;
+  }
+  
+  .item-name {
+    font-weight: 700; /* Make the name bold */
+    margin-bottom: 5px; /* Add space between the name and description */
+  }
+  
+  .item-description {
+    font-size: 0.9em; /* Make the description slightly smaller than the name */
+    color: #3d3d3d; /* A lighter color for the description */
+  }
+  
+  .item-actions button {
+    margin:  5px;
+    margin-top: 40px;
+    border: none;
+    background-color: white;
+    color:#707070 ;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .item-actions button:hover {
+    background-color: #949393;
+  }
+  
+  .leftarrow{
+    size: 30px;
+    font-size: 500;
+  }
