@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-List-Creation/static/css/main.1fbc4eb4.css",
+    "main.js": "/React-List-Creation/static/js/main.71a78437.js",
+    "index.html": "/React-List-Creation/index.html",
+    "main.1fbc4eb4.css.map": "/React-List-Creation/static/css/main.1fbc4eb4.css.map",
+    "main.71a78437.js.map": "/React-List-Creation/static/js/main.71a78437.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fbc4eb4.css",
+    "static/js/main.71a78437.js"
+  ]
+}
